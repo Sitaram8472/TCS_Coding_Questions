@@ -1,16 +1,16 @@
-# 🚀 TCS Coding Questions – Top 100 Programming Problems
+# TCS Coding Questions – Top 100 Programming Problems
 
 A comprehensive collection of the **Top 100+ TCS Coding Questions** frequently asked in **TCS NQT**, **TCS Digital**, **TCS Prime**, and placement interviews. This repository provides **well-structured Java solutions** with optimized approaches, explanations, and time & space complexity to help students prepare for coding rounds and technical interviews.
 
 ---
 
-## 📌 About
+##  About
 
 This repository is designed for students and job seekers preparing for **TCS placement exams** and other coding interviews. It includes carefully selected programming questions covering the most important topics asked in TCS coding rounds. Every solution is implemented in **Java** with a focus on readability, efficiency, and interview-ready coding practices.
 
 ---
 
-## ✨ Features
+##  Features
 
 - ✅ 100+ Frequently Asked TCS Coding Questions
 - ✅ Beginner-friendly Java solutions
@@ -22,9 +22,9 @@ This repository is designed for students and job seekers preparing for **TCS pla
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
-### 🔢 Arrays
+###  Arrays
 
 - Find the Smallest Number in an Array
 - Find the Largest Number in an Array
@@ -52,7 +52,7 @@ This repository is designed for students and job seekers preparing for **TCS pla
 - Search an Element in an Array
 - Check if an Array is a Subset of Another Array
 
-### 🔢 Numbers
+###  Numbers
 
 - Check Palindrome Number
 - Palindrome Numbers in a Range
@@ -90,7 +90,7 @@ This repository is designed for students and job seekers preparing for **TCS pla
 - Area of a Circle
 - Roots of a Quadratic Equation
 
-### 💻 Number System
+###  Number System
 
 - Binary to Decimal
 - Binary to Octal
@@ -100,7 +100,7 @@ This repository is designed for students and job seekers preparing for **TCS pla
 - Octal to Decimal
 - Convert Numbers to Words
 
-### 🔄 Sorting Algorithms
+###  Sorting Algorithms
 
 - Bubble Sort
 - Selection Sort
@@ -108,7 +108,7 @@ This repository is designed for students and job seekers preparing for **TCS pla
 - Merge Sort
 - Quick Sort
 
-### 🔤 Strings
+###  Strings
 
 - Check Palindrome String
 - Count Vowels, Consonants & Spaces
@@ -141,13 +141,13 @@ This repository is designed for students and job seekers preparing for **TCS pla
 
 ---
 
-## 💻 Language Used
+##  Language Used
 
 - Java
 
 ---
 
-## 🎯 Who Is This Repository For?
+##  Who Is This Repository For?
 
 - 🎓 TCS NQT Aspirants
 - 💼 TCS Digital & Prime Aspirants
@@ -173,12 +173,11 @@ This repository is designed for students and job seekers preparing for **TCS pla
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/TCS-Top-100-Coding-Questions.git
-
+git clone https://github.com/Sitaram8472/TCS_Coding_Questions
 # Navigate into the project
 cd TCS-Top-100-Coding-Questions
 ```
@@ -211,4 +210,20 @@ If this repository helps you with your **TCS NQT** or placement preparation, con
 
 If you found this repository helpful, feel free to connect with me on GitHub and share it with others preparing for placements.
 
-**Happy Coding! 🚀**
+---
+
+## 🌟 Support & Follow
+
+If you found this repository helpful for your **TCS NQT** and placement preparation, please consider:
+
+- ⭐ **Star this repository**
+- 🍴 **Fork this repository**
+- 👀 **Follow me on GitHub** for more coding interview repositories, Java projects, DSA solutions, and open-source contributions.
+
+Your support motivates me to create more high-quality learning resources for the developer community.
+
+### 🔗 GitHub Profile
+
+**https://github.com/Sitaram8472**
+
+**Happy Coding! **
