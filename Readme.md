@@ -179,7 +179,7 @@ This repository is designed for students and job seekers preparing for **TCS pla
 # Clone the repository
 git clone https://github.com/Sitaram8472/TCS_Coding_Questions
 # Navigate into the project
-cd TCS-Top-100-Coding-Questions
+cd TCS_Coding_Questions
 ```
 
 Open the project in your favorite Java IDE (IntelliJ IDEA, Eclipse, or VS Code) and start practicing.
@@ -226,4 +226,4 @@ Your support motivates me to create more high-quality learning resources for the
 
 **https://github.com/Sitaram8472**
 
-**Happy Coding! **
+** Happy Coding! **
