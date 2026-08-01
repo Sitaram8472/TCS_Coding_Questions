@@ -17,7 +17,19 @@ import java.io.*;
 
 public class Capitalizefirstandlastcharacter {
   public static void main(String[] args) {
-    String str = "take u forward is awesome";
+    String str = "I am a boy";
+
+    char[] ch = str.toCharArray();
+    for (int i = 0; i < ch.length; i++) {
+      if (i == 0 || ch[i - 1] == ' ') {
+        ch[i] = Character.toUpperCase(ch[i]);
+      }
+      if (i == ch.length - 1 || ch[i + 1] == ' ') {
+        ch[i] = Character.toUpperCase(ch[i]);
+      }
+
+    }
+    System.out.println(new String(ch));
 
   }
 }

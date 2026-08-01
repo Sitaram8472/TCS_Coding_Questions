@@ -23,6 +23,24 @@ public class BinarytoOctal {
 
     int n = 11111;
 
+    String s = String.valueOf(n);
+
+    while (s.length() % 3 != 0) {
+      s = "0" + s;
+    }
+
+    StringBuilder sb = new StringBuilder();
+
+    for (int i = 0; i < s.length(); i += 3) {
+      String group = s.substring(i, i + 3);
+
+      int val = (group.charAt(0) - '0') * 4 + (group.charAt(1) - '0') * 2 + group.charAt(2) - '0';
+
+      sb.append(val);
+    }
+
+    System.out.println(sb.toString());
+
   }
 
 }
